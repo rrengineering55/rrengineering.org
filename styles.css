@@ -268,7 +268,7 @@ p {
   flex-direction: column;
   justify-content: flex-end;
   color: var(--white);
-  background: url("assets/project-01.jpg") center 38% / cover no-repeat;
+  background: url("project-01.jpg") center 38% / cover no-repeat;
   isolation: isolate;
 }
 
